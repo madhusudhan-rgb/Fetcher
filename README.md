@@ -24,4 +24,4 @@ Installation
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/NET.git
+git clone https://github.com/madhusudhan-rgb/NET.git
