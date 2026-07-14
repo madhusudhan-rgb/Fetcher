@@ -18,10 +18,3 @@ Features
 - Scrollable response viewer
 
 Dont forget to  pip install all the modules
-
-Installation
-
-Clone the repository:
-
-bash
-git clone https://github.com/madhusudhan-rgb/NET.git
