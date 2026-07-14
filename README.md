@@ -23,5 +23,5 @@ Installation
 
 Clone the repository:
 
-```bash
+bash
 git clone https://github.com/madhusudhan-rgb/NET.git
